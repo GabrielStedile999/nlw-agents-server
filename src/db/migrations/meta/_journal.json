@@ -15,6 +15,13 @@
       "when": 1752240713113,
       "tag": "0001_hesitant_thunderbolts",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752251155668,
+      "tag": "0002_foamy_frog_thor",
+      "breakpoints": true
     }
   ]
 }
